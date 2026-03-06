@@ -1,6 +1,8 @@
-# CloudCompare Script - 3D Volume Analysis for Archaeological Stratographic Units
+# CloudCompare Script
 
-This project is part of the **Tharros Archaeological Research Project (TARP)** and provides an automated pipeline for converting 3D PLY models into volumetric measurements of archaeological Stratigraphic Units (SUs). The workflow combines automated preprocessing, manual human-in-the-loop refinement in CloudCompare, and automated post-processing to generate accurate 3D volumes.
+## 3D Volume Analysis for Archaeological Stratigraphic Units
+
+Part of the **[Tharros Archaeological Research Project (TARP)](https://air.ht.lu.se/s/tharros/page/home)** — an automated pipeline for converting 3D PLY models into volumetric measurements of archaeological Stratigraphic Units (SUs). The workflow combines automated preprocessing, manual human-in-the-loop refinement in CloudCompare, and automated post-processing to generate accurate 3D volumes.
 
 ## Overview
 
